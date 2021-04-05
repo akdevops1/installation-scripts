@@ -1,0 +1,1 @@
+echo "install java 8 version"
